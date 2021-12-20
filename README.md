@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Agus Ramadhani 👋
 ![image](https://user-images.githubusercontent.com/42666125/146818165-3bf8a480-6dc1-4ddd-a034-b8752b64573f.png)
 
 <!--

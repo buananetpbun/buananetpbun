@@ -1,12 +1,6 @@
 ![image](https://user-images.githubusercontent.com/42666125/146818491-92ec8132-79ba-46cd-b6ed-7a3253e12fe1.png)
-<br>
+<br><br>
 Agus Ramadhani is a Blogger, Programmer on App Web, App Desktop, Mikrotik and Networking Skill
-<br>
-/* --------------------------------------------<br>
-Site		: https://o-om.com<br>
-Site    : https://Zoomtemplate.com<br>
-Site    : https://buananetpbun.gtihub.io<br>
------------------------------------------------ */<br>
 <!--
 **buananetpbun/buananetpbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

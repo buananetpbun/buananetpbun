@@ -1,5 +1,6 @@
-Hi, I'm Agus Ramadhani
 ![image](https://user-images.githubusercontent.com/42666125/146818491-92ec8132-79ba-46cd-b6ed-7a3253e12fe1.png)
+<br>
+Agus Ramadhani is a Blogger, Programmer on App Web, App Desktop, Mikrotik and Networking Skill
 <br>
 /* --------------------------------------------<br>
 Site		: https://o-om.com<br>

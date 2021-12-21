@@ -17,9 +17,11 @@ Instagram       : instagram.com/buananet_mikrotik
 linkedin        : linkedin.com/in/agus-ramadhani-12a7a29
 ------------------------------------------------------------- /*
 </pre>
-If you like My tool and source code you can gife me a donation at PAYPAL to email: <span style="color:green">oom[at]o-om.com</span>
+If you like my tool and my source code you can gife me a donation at PAYPAL to email -> oom[at]o-om.com
 
-Dukung Tools ini dengan memberikan Donasi melalui https://saweria.co/buananetpbun
+Dukung terus saya dengan memberikan Donasi melalui https://saweria.co/buananetpbun
+
+
 <!--
 **buananetpbun/buananetpbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

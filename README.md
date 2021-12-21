@@ -1,6 +1,3 @@
-
-
-
 # Hi, I'm Agus Ramadhani
 <pre>
  ______  _     _        ______         ______  _______ _______ 
@@ -10,15 +7,19 @@
 | |__)  ) |___| | |__| | |   | | |__| | |   | | |_____| |_____ 
 |______/ \______|______|_|   |_|______|_|   |_|_______)\______)
 Protected by BuanaNET SECURE!
-/* --------------------------------------------------
-Site            : http://www.o-om.com 
-Github Pages    : https://buananetpbun.github.io
-FaceBook        : https://fb.me/buananet.pbun	
--------------------------------------------------- /*
+/*-------------------------------------------------------------
+My Blog         : o-om.com 
+Github Pages    : buananetpbun.github.io
+Facebook        : fb.me/buananet.pbun
+Twitter         : twitter.com/oomdotcom
+Instagram       : instagram.com/buananet_mikrotik
+linkedin        : linkedin.com/in/agus-ramadhani-12a7a29
+-------------------------------------------------------------/*
 </pre>
+
+If you like this tool you can gife me a donation at PAYPAL to email: oom@o-om.com
+
 Dukung Tools ini dengan memberikan Donasi melalui https://saweria.co/buananetpbun
-
-
 <!--
 **buananetpbun/buananetpbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

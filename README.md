@@ -7,8 +7,9 @@
 | |__)  ) |___| | |__| | |   | | |__| | |   | | |_____| |_____ 
 |______/ \______|______|_|   |_|______|_|   |_|_______)\______)
 Protected by BuanaNET SECURE!
+
 /*-------------------------------------------------------------
-My Blog         : o-om.com 
+My Blog         : www.o-om.com 
 Github Pages    : buananetpbun.github.io
 Facebook        : fb.me/buananet.pbun
 Twitter         : twitter.com/oomdotcom

@@ -7,7 +7,7 @@
 | |__)  ) |___| | |__| | |   | | |__| | |   | | |_____| |_____ 
 |______/ \______|______|_|   |_|______|_|   |_|_______)\______)
 ⚡ Protected by BuanaNET SECURE!
-
+</pre>
 /*-------------------------------------------------------------
 My Blog         : www.o-om.com 
 Github Pages    : buananetpbun.github.io
@@ -16,9 +16,9 @@ Twitter         : twitter.com/oomdotcom
 Instagram       : instagram.com/buananet_mikrotik
 linkedin        : linkedin.com/in/agus-ramadhani-12a7a29
 -------------------------------------------------------------/*
-</pre>
 
-If you like this tool you can gife me a donation at PAYPAL to email: oom@o-om.com
+
+If you like My tool and source code you can gife me a donation at PAYPAL to email: oom@o-om.com
 
 Dukung Tools ini dengan memberikan Donasi melalui https://saweria.co/buananetpbun
 <!--

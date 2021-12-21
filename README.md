@@ -8,15 +8,15 @@
 |______/ \______|______|_|   |_|______|_|   |_|_______)\______)
 ⚡ Protected by BuanaNET SECURE!
 </pre>
-/*-------------------------------------------------------------
-My Blog         : www.o-om.com 
-Github Pages    : buananetpbun.github.io
-Facebook        : fb.me/buananet.pbun
-Twitter         : twitter.com/oomdotcom
-Instagram       : instagram.com/buananet_mikrotik
-linkedin        : linkedin.com/in/agus-ramadhani-12a7a29
--------------------------------------------------------------/*
 
+/* -------------------------------------------------------------<br>
+My Blog         : www.o-om.com <br>
+Github Pages    : buananetpbun.github.io<br>
+Facebook        : fb.me/buananet.pbun<br>
+Twitter         : twitter.com/oomdotcom<br>
+Instagram       : instagram.com/buananet_mikrotik<br>
+linkedin        : linkedin.com/in/agus-ramadhani-12a7a29<br>
+------------------------------------------------------------- /*<br>
 
 If you like My tool and source code you can gife me a donation at PAYPAL to email: oom@o-om.com
 

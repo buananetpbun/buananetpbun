@@ -17,7 +17,7 @@ Instagram       : instagram.com/buananet_mikrotik
 linkedin        : linkedin.com/in/agus-ramadhani-12a7a29
 ------------------------------------------------------------- /*
 </pre>
-If you like my tool and my source code you can gife me a donation at PAYPAL to email -> oom[at]o-om.com
+If you like my tool and my source code you can give me a donation at PAYPAL to email -> oom[at]o-om.com
 
 Dukung terus saya dengan memberikan Donasi melalui https://saweria.co/buananetpbun
 

@@ -1,6 +1,27 @@
-![image](https://user-images.githubusercontent.com/42666125/146818491-92ec8132-79ba-46cd-b6ed-7a3253e12fe1.png)
-<br><br>
-Agus Ramadhani is a Blogger, Programmer on App Web, App Desktop, Mikrotik and Networking Skill
+
+
+
+# Hi, I'm Agus Ramadhani
+
+<pre>
+ ______  _     _        ______         ______  _______ _______ 
+(____  \| |   | |  /\  |  ___ \   /\  |  ___ \(_______|_______)
+ ____)  ) |   | | /  \ | |   | | /  \ | |   | |_____   _       
+|  __  (| |   | |/ /\ \| |   | |/ /\ \| |   | |  ___) | |      
+| |__)  ) |___| | |__| | |   | | |__| | |   | | |_____| |_____ 
+|______/ \______|______|_|   |_|______|_|   |_|_______)\______)
+Protected by BuanaNET SECURE!
+
+/* --------------------------------------------------
+Site            : http://www.o-om.com 
+Github Pages    : https://buananetpbun.github.io
+FaceBook        : https://fb.me/buananet.pbun	
+-------------------------------------------------- /*
+
+</pre>
+
+Dukung Tools ini dengan memberikan Donasi melalui https://saweria.co/buananetpbun
+
 <!--
 **buananetpbun/buananetpbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

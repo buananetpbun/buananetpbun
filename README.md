@@ -1,38 +1,16 @@
 # Hi, I'm Agus Ramadhani
 <pre>
- ______  _     _        ______         ______  _______ _______ 
-(____  \| |   | |  /\  |  ___ \   /\  |  ___ \(_______|_______)
- ____)  ) |   | | /  \ | |   | | /  \ | |   | |_____   _       
-|  __  (| |   | |/ /\ \| |   | |/ /\ \| |   | |  ___) | |      
-| |__)  ) |___| | |__| | |   | | |__| | |   | | |_____| |_____ 
-|______/ \______|______|_|   |_|______|_|   |_|_______)\______)
-⚡ Protected by BuanaNET SECURE!
-
-/* -------------------------------------------------------------
-My Blog         : www.o-om.com
-Github Pages    : buananetpbun.github.io
-Facebook        : fb.me/buananet.pbun
-Twitter         : twitter.com/oomdotcom
-Instagram       : instagram.com/buananet_mikrotik
-linkedin        : linkedin.com/in/agus-ramadhani-12a7a29
-------------------------------------------------------------- /*
+"Agus Ramadhani is a Blogger, Programming on Web App, Desktop App, MikroTik Tools and Networking Skill"
 </pre>
-If you like my tool and my source code you can give me a donation at PAYPAL to email -> oom[at]o-om.com
+If you like my tool and my source code you can give me a donation at PAYPAL to email oom@o-om.com
 
 Dukung terus saya dengan memberikan Donasi melalui https://saweria.co/buananetpbun
 
+<b>You can find me at:</b>
+- ⚡ My Blog         : https://www.o-om.com
+- ⚡ Github Pages    : https://buananetpbun.github.io
+- ⚡ Facebook        : https://fb.me/buananet.pbun
+- ⚡ Twitter         : https://twitter.com/oomdotcom
+- ⚡ Instagram       : https://instagram.com/buananet_mikrotik
+- ⚡ linkedin        : https://linkedin.com/in/agus-ramadhani-12a7a29
 
-<!--
-**buananetpbun/buananetpbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

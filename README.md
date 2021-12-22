@@ -9,8 +9,8 @@
 - ⚡ Facebook        : https://fb.me/buananet.pbun
 - ⚡ Twitter         : https://twitter.com/oomdotcom
 - ⚡ Instagram       : https://instagram.com/buananet_mikrotik
-- ⚡ linkedin        : https://linkedin.com/in/agus-ramadhani-12a7a29
+- ⚡ linkedin        : https://linkedin.com/in/agus-ramadhani
 
-
+<b>Want to give me a cake?</b><br>
 If you like my tool and my source code you can give me a donation at PAYPAL to email oom@o-om.com<br>
 Dukung terus saya dengan memberikan Donasi melalui https://saweria.co/buananetpbun

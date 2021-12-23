@@ -3,15 +3,13 @@
 <pre>
 "Agus Ramadhani is a Blogger, Programmer on Web, Desktop, MikroTik Tools and Networking Skills"
 </pre>
-
 ## :link: <b>You can find me at:</b>
 - ⚡ Blog : https://www.o-om.com
-- ⚡ Github : https://buananetpbun.github.io
 - ⚡ Facebook : https://fb.me/buananet.pbun
 - ⚡ Twitter : https://twitter.com/oomdotcom
 - ⚡ Instagram : https://instagram.com/buananet_mikrotik
 - ⚡ linkedin : https://linkedin.com/in/agus-ramadhani
-
+- ⚡ Github : https://buananetpbun.github.io
 ## :gift_heart: <b>Want to give me a cake?</b><br>
 
 If you like my tool and my source code you can give me a donation at PAYPAL to email oom@o-om.com<br>

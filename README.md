@@ -1,7 +1,7 @@
 # :bearded_person: Hi, I'm Agus Ramadhani
 ![image](https://user-images.githubusercontent.com/42666125/147025841-19ddcf5a-de4b-4261-aa4b-5f04fe521d30.png)
 <pre>
-"he is a Blogger, he is to Web programming, Desktop App, MikroTik Tools and Networking Skills"
+"Agus Ramadhani is a Blogger, Programmer on Web, Desktop, MikroTik Tools and Networking Skills"
 </pre>
 
 ## :link: <b>You can find me at:</b>

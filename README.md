@@ -12,7 +12,7 @@
 - ⚡ Github : https://buananetpbun.github.io
 ## :gift_heart: <b>Want to give me a cake?</b><br>
 
-If you like my tool and my source code you can give me a donation at PAYPAL to email oom@o-om.com<br>
+If you like my tool and my source code you can give me a donation at PAYPAL to https://paypal.me/agusramadhani1<br>
 Dukung terus saya dengan memberikan Donasi melalui https://saweria.co/buananetpbun
 
 

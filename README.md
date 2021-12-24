@@ -3,6 +3,7 @@
 <pre>
 "Agus Ramadhani is a Blogger, Programmer on Web, Desktop, MikroTik Tools and Networking Skills"
 </pre>
+
 ## :link: <b>You can find me at:</b>
 - ⚡ Blog : https://www.o-om.com
 - ⚡ Facebook : https://fb.me/buananet.pbun
@@ -10,8 +11,8 @@
 - ⚡ Instagram : https://instagram.com/buananet_mikrotik
 - ⚡ linkedin : https://linkedin.com/in/agus-ramadhani
 - ⚡ Github : https://buananetpbun.github.io
-## :gift_heart: <b>Want to give me a cake?</b><br>
 
+## :gift_heart: <b>Want to give me a Gift ?</b><br>
 - PAYPAL to https://paypal.me/agusramadhani1<br>
 - Donasi melalui https://saweria.co/buananetpbun
 

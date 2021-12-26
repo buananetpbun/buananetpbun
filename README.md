@@ -13,8 +13,8 @@
 - ⚡ Github : https://buananetpbun.github.io
 
 ## :gift_heart: <b>Want to give me a Gift ?</b><br>
-- PAYPAL to https://paypal.me/agusramadhani1<br>
-- Donasi melalui https://saweria.co/buananetpbun
+- :link: PAYPAL to https://paypal.me/agusramadhani1<br>
+- :link: Donasi melalui https://saweria.co/buananetpbun
 
 
 

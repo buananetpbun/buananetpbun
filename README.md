@@ -19,6 +19,11 @@
 ## :gift_heart: <b>Want to give me a Gift ?</b><br>
 - :link: PAYPAL to https://paypal.me/agusramadhani1<br>
 - :link: Donasi melalui https://saweria.co/buananetpbun
+- :link: Bitcoin to [ bc1qazx09937at9za695m39xzjvqt8tjncgwep4ymf ]<br>
+![image](https://user-images.githubusercontent.com/42666125/147764697-5a8f59ba-1af0-4875-a831-d1a58307d586.png)
+
+
+
 
 
 

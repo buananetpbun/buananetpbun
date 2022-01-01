@@ -21,9 +21,6 @@
 - :link: Donasi melalui https://saweria.co/buananetpbun
 - :link: Bitcoin to [ <b>bc1qazx09937at9za695m39xzjvqt8tjncgwep4ymf</b> ]
 
-## <b>License</b><br>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
 
 
 

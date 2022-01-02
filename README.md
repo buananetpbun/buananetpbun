@@ -1,7 +1,7 @@
 # :bearded_person: Hi, I'm Agus Ramadhani
 ![image](https://user-images.githubusercontent.com/42666125/147025841-19ddcf5a-de4b-4261-aa4b-5f04fe521d30.png)
 <pre>
-"Agus Ramadhani is a Blogger at o-om.com, Programmer Web, Desktop, MikroTik RouterOS Script Tools and Networking Skills"
+"Agus Ramadhani is a Blogger at o-om.com, web Programmer, Desktop, MikroTik RouterOS Script Tools and Networking Skills"
 </pre>
 
 ![image](https://user-images.githubusercontent.com/42666125/147416579-20a6475d-3b90-4ead-a442-9deaefc19509.png)

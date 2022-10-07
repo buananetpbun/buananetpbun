@@ -4,6 +4,8 @@
 "Agus Ramadhani is a Blogger, Programmer at Web, Desktop App, MikroTik RouterOS Script Tools and Networking Skills"
 </pre>
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=buananetpbun&show_icons=true)
+
 ![image](https://user-images.githubusercontent.com/42666125/147416579-20a6475d-3b90-4ead-a442-9deaefc19509.png)
 - ⚡ Github Page : https://buananetpbun.github.io
 - ⚡ My Gist : https://gist.github.com/buananetpbun
@@ -21,4 +23,5 @@
 - :link: Buy me a coffe https://www.buymeacoffee.com/bntpbun
 - :link: Bitcoin to [ <b>bc1qazx09937at9za695m39xzjvqt8tjncgwep4ymf</b> ]
 
-![buananetpbun GitHub stats](https://github-readme-stats.vercel.app/api?username=buananetpbun&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buananetpbun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

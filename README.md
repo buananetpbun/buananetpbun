@@ -5,7 +5,6 @@
 </pre>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=buananetpbun&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buananetpbun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://user-images.githubusercontent.com/42666125/147416579-20a6475d-3b90-4ead-a442-9deaefc19509.png)
 - ⚡ Github Page : https://buananetpbun.github.io
@@ -24,4 +23,5 @@
 - :link: Buy me a coffe https://www.buymeacoffee.com/bntpbun
 - :link: Bitcoin to [ <b>bc1qazx09937at9za695m39xzjvqt8tjncgwep4ymf</b> ]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buananetpbun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

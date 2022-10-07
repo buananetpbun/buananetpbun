@@ -20,3 +20,5 @@
 - :link: Donasi melalui https://saweria.co/buananetpbun
 - :link: Buy me a coffe https://www.buymeacoffee.com/bntpbun
 - :link: Bitcoin to [ <b>bc1qazx09937at9za695m39xzjvqt8tjncgwep4ymf</b> ]
+
+![buananetpbun GitHub stats](https://github-readme-stats.vercel.app/api?username=buananetpbun&show_icons=true&theme=radical)

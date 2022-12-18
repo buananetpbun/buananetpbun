@@ -6,7 +6,10 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=buananetpbun&show_icons=true)
 
+![image](https://user-images.githubusercontent.com/42666125/208303460-0eb30749-77a4-4a8b-9728-4e7555646612.png)
+
 ![image](https://user-images.githubusercontent.com/42666125/202864226-ede45f6a-4f7d-48c4-8240-f053f4d2ffae.png)
+
 - ⚡ Github Page : https://buananetpbun.github.io
 - ⚡ My Gist : https://gist.github.com/buananetpbun
 

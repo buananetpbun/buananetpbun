@@ -4,7 +4,5 @@
 "Agus Ramadhani is a Blogger, Programmer at Web, Desktop App, MikroTik RouterOS Script Tools and Networking Skills"
 </pre>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=buananetpbun&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buananetpbun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
